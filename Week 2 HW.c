@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-#include <stdlib.h> // malloc, free ?•¨?ˆ˜
+#include <stdlib.h> // malloc, free ??
 
 void input(int **array, int row, int col);
 void output(int **array, int row, int col);
